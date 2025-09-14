@@ -27,4 +27,4 @@ Managers can identify high-risk groups and take preventive actions.
 Business leaders can align workforce planning with organizational goals.
 
 Here is the Demo of the Dashboard
-https://github.com/hriturajsharma-code/HR-Analytics-Dashboard/blob/ac72ec5072f5755a2ee462186a30ae0b73f87d5e/Dashboard.png
+![image alt](https://github.com/hriturajsharma-code/HR-Analytics-Dashboard/blob/ac72ec5072f5755a2ee462186a30ae0b73f87d5e/Dashboard.png)
