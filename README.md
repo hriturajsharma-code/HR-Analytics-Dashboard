@@ -25,3 +25,5 @@ HR teams can monitor attrition patterns and improve employee retention strategie
 Managers can identify high-risk groups and take preventive actions.
 
 Business leaders can align workforce planning with organizational goals.
+
+https://github.com/hriturajsharma-code/HR-Analytics-Dashboard/blob/main/Dashboard.png
